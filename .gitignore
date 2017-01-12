@@ -1,0 +1,4 @@
+# Binarios de Haskell
+*.o
+
+*.hi
